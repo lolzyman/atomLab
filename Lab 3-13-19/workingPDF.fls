@@ -1,0 +1,22 @@
+PWD C:\Users\kmark\Documents\Comm Systems\Latex Documentation\Lab 3-13-19
+INPUT C:\Users\kmark\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT workingPDF.tex
+OUTPUT workingPDF.log
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT workingPDF.aux
+INPUT workingPDF.aux
+OUTPUT workingPDF.aux
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+OUTPUT workingPDF.pdf
+INPUT C:\Users\kmark\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT workingPDF.aux
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
