@@ -93,7 +93,6 @@ INPUT .\Figures\Tri_Full.jpg
 INPUT .\Figures\Tri_Full.jpg
 INPUT .\Figures\Tri_Full.jpg
 INPUT .\Figures\Tri_Full.jpg
-INPUT C:\Users\kmark\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT Figures\Rect_Half.jpg
 INPUT .\Figures\Rect_Half.jpg
 INPUT .\Figures\Rect_Half.jpg
@@ -104,10 +103,18 @@ INPUT .\Figures\Rect_Full.jpg
 INPUT .\Figures\Rect_Full.jpg
 INPUT .\Figures\Rect_Full.jpg
 INPUT .\Figures\Rect_Full.jpg
+INPUT C:\Users\kmark\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT Figures\Raised_Cosine_Pulse.jpg
 INPUT .\Figures\Raised_Cosine_Pulse.jpg
 INPUT Figures\Raised_Cosine_Pulse.jpg
 INPUT .\Figures\Raised_Cosine_Pulse.jpg
+INPUT Figures\Raised_Cosine_Pulse.jpg
+INPUT .\Figures\Raised_Cosine_Pulse.jpg
+INPUT Figures\On_Off.jpg
+INPUT .\Figures\On_Off.jpg
+INPUT .\Figures\On_Off.jpg
+INPUT .\Figures\On_Off.jpg
+INPUT .\Figures\On_Off.jpg
 INPUT Lab_8_Submission.aux
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb

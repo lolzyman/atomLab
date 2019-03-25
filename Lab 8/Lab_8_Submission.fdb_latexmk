@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1553542558 "Lab_8_Submission.tex" "Lab_8_Submission.pdf" "Lab_8_Submission" 1553542559
+["pdflatex"] 1553548013 "Lab_8_Submission.tex" "Lab_8_Submission.pdf" "Lab_8_Submission" 1553548014
   "C:/Users/kmark/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1552515830 4166922 562fe744e55b4b09549e9b3963d89daa ""
   "C:/Users/kmark/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1552614044 80453 73224248f0a73acd005b5611945eaaa6 ""
   "C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -44,14 +44,15 @@
   "C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/grfext.sty" 1543584688 7075 2fe3d848bba95f139de11ded085e74aa ""
   "C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/kvoptions.sty" 1543584690 22417 1d9df1eb66848aa31b18a593099cf45c ""
   "C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/multicol.sty" 1544476230 30918 22ab1c44b623246bf4f603810a5a26f6 ""
+  "Figures/On_Off.jpg" 1553546505 193581 6db28bcab1b0b66a6da80989660075ab ""
   "Figures/Raised_Cosine_Pulse.jpg" 1553540964 12483 90be765a0b0d318b69f55c3f1f552abb ""
   "Figures/Rect_Full.jpg" 1553541979 13101 d8489b94cf30bbf8d7843cc16451ced2 ""
   "Figures/Rect_Half.jpg" 1553541956 13679 a848e787a67e3c71e88e677471a3a1b2 ""
   "Figures/Tri_Full.jpg" 1553541756 15560 74745990c17c02458dc190b92d636962 ""
   "Figures/Tri_Half.jpg" 1553541734 14209 b081625306050914c54dd6e763b0557c ""
-  "Lab_8_Submission.aux" 1553542559 2346 fb8cc688016013b1857b2380f7e9a25c ""
-  "Lab_8_Submission.tex" 1553542556 2754 bcfd617c6a8343111f7d010fc11708de ""
+  "Lab_8_Submission.aux" 1553548014 2647 e888b5391232c035456eca3fef7c1423 ""
+  "Lab_8_Submission.tex" 1553548012 3308 0c4cb1d036656b31bb7d53e091ed9378 ""
   (generated)
-  "Lab_8_Submission.log"
   "Lab_8_Submission.aux"
+  "Lab_8_Submission.log"
   "Lab_8_Submission.pdf"

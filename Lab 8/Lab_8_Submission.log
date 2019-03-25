@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.13)  25 MAR 2019 15:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.13)  25 MAR 2019 17:06
 entering extended mode
 **./Lab_8_Submission.tex
 (Lab_8_Submission.tex
@@ -193,17 +193,7 @@ Package caption Info: listings package is loaded.
 )
 \c@subfigure=\count111
 \c@subtable=\count112
-) (Lab_8_Submission.aux
-
-LaTeX Warning: Label `fig:Tri_Half' multiply defined.
-
-
-LaTeX Warning: Label `fig:Raised_Cosine_Pulse' multiply defined.
-
-
-LaTeX Warning: Label `fig:Raised_Cosine_Pulse' multiply defined.
-
-)
+) (Lab_8_Submission.aux)
 \openout1 = `Lab_8_Submission.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -228,15 +218,15 @@ LaTeX Font Info:    ... okay on input line 12.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(90.3375pt, 433.62001pt, 90.3375pt)
-* v-part:(T,H,B)=(90.3375pt, 614.295pt, 90.3375pt)
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=433.62001pt
-* \textheight=614.295pt
-* \oddsidemargin=18.0675pt
-* \evensidemargin=18.0675pt
-* \topmargin=-18.9325pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -337,67 +327,74 @@ File: ./Figures/Raised_Cosine_Pulse.jpg Graphic file (type jpg)
 <use ./Figures/Raised_Cosine_Pulse.jpg>
 Package pdftex.def Info: ./Figures/Raised_Cosine_Pulse.jpg  used on input line 
 35.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
+(pdftex.def)             Requested size: 187.89914pt x 140.92133pt.
 <./Figures/Tri_Half.jpg, id=2, 562.1pt x 421.575pt>
 File: ./Figures/Tri_Half.jpg Graphic file (type jpg)
 <use ./Figures/Tri_Half.jpg>
 Package pdftex.def Info: ./Figures/Tri_Half.jpg  used on input line 44.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
+(pdftex.def)             Requested size: 187.89914pt x 140.92133pt.
 <./Figures/Tri_Full.jpg, id=3, 562.1pt x 421.575pt>
 File: ./Figures/Tri_Full.jpg Graphic file (type jpg)
 <use ./Figures/Tri_Full.jpg>
 Package pdftex.def Info: ./Figures/Tri_Full.jpg  used on input line 48.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
+(pdftex.def)             Requested size: 187.89914pt x 140.92133pt.
+<./Figures/Rect_Half.jpg, id=4, 562.1pt x 421.575pt>
+File: ./Figures/Rect_Half.jpg Graphic file (type jpg)
+<use ./Figures/Rect_Half.jpg>
+Package pdftex.def Info: ./Figures/Rect_Half.jpg  used on input line 59.
+(pdftex.def)             Requested size: 187.89914pt x 140.92133pt.
+<./Figures/Rect_Full.jpg, id=5, 562.1pt x 421.575pt>
+File: ./Figures/Rect_Full.jpg Graphic file (type jpg)
+<use ./Figures/Rect_Full.jpg>
+Package pdftex.def Info: ./Figures/Rect_Full.jpg  used on input line 63.
+(pdftex.def)             Requested size: 187.89914pt x 140.92133pt.
 
 [1
 
 {C:/Users/kmark/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Figures/R
-aised_Cosine_Pulse.jpg>]
-<./Figures/Rect_Half.jpg, id=12, 562.1pt x 421.575pt>
-File: ./Figures/Rect_Half.jpg Graphic file (type jpg)
-<use ./Figures/Rect_Half.jpg>
-Package pdftex.def Info: ./Figures/Rect_Half.jpg  used on input line 59.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
-<./Figures/Rect_Full.jpg, id=13, 562.1pt x 421.575pt>
-File: ./Figures/Rect_Full.jpg Graphic file (type jpg)
-<use ./Figures/Rect_Full.jpg>
-Package pdftex.def Info: ./Figures/Rect_Full.jpg  used on input line 63.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
+aised_Cosine_Pulse.jpg> <./Figures/Tri_Half.jpg> <./Figures/Tri_Full.jpg>]
 File: ./Figures/Raised_Cosine_Pulse.jpg Graphic file (type jpg)
 <use ./Figures/Raised_Cosine_Pulse.jpg>
 Package pdftex.def Info: ./Figures/Raised_Cosine_Pulse.jpg  used on input line 
 73.
-(pdftex.def)             Requested size: 433.62001pt x 325.21199pt.
- [2 <./Figures/Tri_Half.jpg> <./Figures/Tri_Full.jpg> <./Figures/Rect_Half.jpg>
- <./Figures/Rect_Full.jpg>]
+(pdftex.def)             Requested size: 469.75502pt x 352.31299pt.
 File: ./Figures/Raised_Cosine_Pulse.jpg Graphic file (type jpg)
 <use ./Figures/Raised_Cosine_Pulse.jpg>
 Package pdftex.def Info: ./Figures/Raised_Cosine_Pulse.jpg  used on input line 
 81.
-(pdftex.def)             Requested size: 433.62001pt x 325.21199pt.
- [3] [4]
-(Lab_8_Submission.aux)
+(pdftex.def)             Requested size: 469.75502pt x 352.31299pt.
 
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+[2 <./Figures/Rect_Half.jpg> <./Figures/Rect_Full.jpg>]
+File: ./Figures/Raised_Cosine_Pulse.jpg Graphic file (type jpg)
+<use ./Figures/Raised_Cosine_Pulse.jpg>
+Package pdftex.def Info: ./Figures/Raised_Cosine_Pulse.jpg  used on input line 
+89.
+(pdftex.def)             Requested size: 469.75502pt x 352.31299pt.
+ [3]
+<./Figures/On_Off.jpg, id=21, 1862.96pt x 953.5625pt>
+File: ./Figures/On_Off.jpg Graphic file (type jpg)
+<use ./Figures/On_Off.jpg>
+Package pdftex.def Info: ./Figures/On_Off.jpg  used on input line 99.
+(pdftex.def)             Requested size: 469.75502pt x 240.4416pt.
+ [4] [5 <./Figures/On_Off.jpg>] (Lab_8_Submission.aux) ) 
 Here is how much of TeX's memory you used:
- 4616 strings out of 492946
- 72502 string characters out of 3126266
- 146670 words of memory out of 3000000
- 8480 multiletter control sequences out of 15000+200000
+ 4626 strings out of 492946
+ 72677 string characters out of 3126266
+ 147644 words of memory out of 3000000
+ 8489 multiletter control sequences out of 15000+200000
  5457 words of font info for 20 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,7n,40p,324b,495s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/kmark/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/kmark/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Lab_8_Submission.pdf (4 pages, 140859 bytes).
+<C:/Users/kmark/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/
+kmark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb><C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr9.pfb><C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Lab_8_Submission.pdf (5 pages, 336487 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
