@@ -1,7 +1,7 @@
-PWD C:\Users\kmark\Documents\Comm Systems\Latex Documentation\Lab 7
+PWD C:\Users\kmark\Documents\Comm Systems\Latex Documentation\Lab 8
 INPUT C:\Users\kmark\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT WorkingPdf.tex
-OUTPUT WorkingPdf.log
+INPUT Lab_8_Submission.tex
+OUTPUT Lab_8_Submission.log
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
@@ -44,9 +44,9 @@ INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.sty
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.sty
-INPUT WorkingPdf.aux
-INPUT WorkingPdf.aux
-OUTPUT WorkingPdf.aux
+INPUT Lab_8_Submission.aux
+INPUT Lab_8_Submission.aux
+OUTPUT Lab_8_Submission.aux
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
@@ -71,107 +71,51 @@ INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdft
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
-INPUT Figures\PCM_4.jpg
-INPUT .\Figures\PCM_4.jpg
-OUTPUT WorkingPdf.pdf
-INPUT .\Figures\PCM_4.jpg
-INPUT .\Figures\PCM_4.jpg
-INPUT .\Figures\PCM_4.jpg
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr9.tfm
-INPUT Figures\PCM_4_Error.jpg
-INPUT .\Figures\PCM_4_Error.jpg
-INPUT .\Figures\PCM_4_Error.jpg
-INPUT .\Figures\PCM_4_Error.jpg
-INPUT .\Figures\PCM_4_Error.jpg
-INPUT Figures\PCM_16.jpg
-INPUT .\Figures\PCM_16.jpg
-INPUT .\Figures\PCM_16.jpg
-INPUT .\Figures\PCM_16.jpg
-INPUT .\Figures\PCM_16.jpg
-INPUT Figures\PCM_16_Error.jpg
-INPUT .\Figures\PCM_16_Error.jpg
-INPUT .\Figures\PCM_16_Error.jpg
-INPUT .\Figures\PCM_16_Error.jpg
-INPUT .\Figures\PCM_16_Error.jpg
-INPUT C:\Users\kmark\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT Figures\Del_0_5.jpg
-INPUT .\Figures\Del_0_5.jpg
-INPUT .\Figures\Del_0_5.jpg
-INPUT .\Figures\Del_0_5.jpg
-INPUT .\Figures\Del_0_5.jpg
-INPUT Figures\Del_Error_0_5.jpg
-INPUT .\Figures\Del_Error_0_5.jpg
-INPUT .\Figures\Del_Error_0_5.jpg
-INPUT .\Figures\Del_Error_0_5.jpg
-INPUT .\Figures\Del_Error_0_5.jpg
-INPUT Figures\Del_1.jpg
-INPUT .\Figures\Del_1.jpg
-INPUT .\Figures\Del_1.jpg
-INPUT .\Figures\Del_1.jpg
-INPUT .\Figures\Del_1.jpg
-INPUT Figures\Del_Error_1.jpg
-INPUT .\Figures\Del_Error_1.jpg
-INPUT .\Figures\Del_Error_1.jpg
-INPUT .\Figures\Del_Error_1.jpg
-INPUT .\Figures\Del_Error_1.jpg
-INPUT Figures\Del_2.jpg
-INPUT .\Figures\Del_2.jpg
-INPUT .\Figures\Del_2.jpg
-INPUT .\Figures\Del_2.jpg
-INPUT .\Figures\Del_2.jpg
-INPUT Figures\Del_Error_2.jpg
-INPUT .\Figures\Del_Error_2.jpg
-INPUT .\Figures\Del_Error_2.jpg
-INPUT .\Figures\Del_Error_2.jpg
-INPUT .\Figures\Del_Error_2.jpg
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omlcmr.fd
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omlcmr.fd
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
-INPUT WorkingPdf.aux
+INPUT Figures\Raised_Cosine_Pulse.jpg
+INPUT .\Figures\Raised_Cosine_Pulse.jpg
+OUTPUT Lab_8_Submission.pdf
+INPUT .\Figures\Raised_Cosine_Pulse.jpg
+INPUT .\Figures\Raised_Cosine_Pulse.jpg
+INPUT .\Figures\Raised_Cosine_Pulse.jpg
+INPUT Figures\Tri_Half.jpg
+INPUT .\Figures\Tri_Half.jpg
+INPUT .\Figures\Tri_Half.jpg
+INPUT .\Figures\Tri_Half.jpg
+INPUT .\Figures\Tri_Half.jpg
+INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr9.tfm
+INPUT Figures\Tri_Full.jpg
+INPUT .\Figures\Tri_Full.jpg
+INPUT .\Figures\Tri_Full.jpg
+INPUT .\Figures\Tri_Full.jpg
+INPUT .\Figures\Tri_Full.jpg
+INPUT C:\Users\kmark\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT Figures\Rect_Half.jpg
+INPUT .\Figures\Rect_Half.jpg
+INPUT .\Figures\Rect_Half.jpg
+INPUT .\Figures\Rect_Half.jpg
+INPUT .\Figures\Rect_Half.jpg
+INPUT Figures\Rect_Full.jpg
+INPUT .\Figures\Rect_Full.jpg
+INPUT .\Figures\Rect_Full.jpg
+INPUT .\Figures\Rect_Full.jpg
+INPUT .\Figures\Rect_Full.jpg
+INPUT Figures\Raised_Cosine_Pulse.jpg
+INPUT .\Figures\Raised_Cosine_Pulse.jpg
+INPUT Figures\Raised_Cosine_Pulse.jpg
+INPUT .\Figures\Raised_Cosine_Pulse.jpg
+INPUT Lab_8_Submission.aux
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr9.pfb
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr9.pfb
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
-INPUT C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb

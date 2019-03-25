@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.13)  14 MAR 2019 23:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.13)  25 MAR 2019 15:35
 entering extended mode
-**./WorkingPdf.tex
-(WorkingPdf.tex
+**./Lab_8_Submission.tex
+(Lab_8_Submission.tex
 LaTeX2e <2018-12-01>
 ("C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -193,21 +193,31 @@ Package caption Info: listings package is loaded.
 )
 \c@subfigure=\count111
 \c@subtable=\count112
-) (WorkingPdf.aux)
-\openout1 = `WorkingPdf.aux'.
+) (Lab_8_Submission.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Warning: Label `fig:Tri_Half' multiply defined.
+
+
+LaTeX Warning: Label `fig:Raised_Cosine_Pulse' multiply defined.
+
+
+LaTeX Warning: Label `fig:Raised_Cosine_Pulse' multiply defined.
+
+)
+\openout1 = `Lab_8_Submission.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 \c@lstlisting=\count113
 
 *geometry* driver: auto-detecting
@@ -315,146 +325,79 @@ G,.JBIG2,.JB2,.eps]
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 35.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 35.
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--49
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-
- []
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 55.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 55.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 55.
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--64
-
- []
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 67.
-<./Figures/PCM_4.jpg, id=1, 562.1pt x 421.575pt>
-File: ./Figures/PCM_4.jpg Graphic file (type jpg)
-<use ./Figures/PCM_4.jpg>
-Package pdftex.def Info: ./Figures/PCM_4.jpg  used on input line 79.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
-<./Figures/PCM_4_Error.jpg, id=2, 562.1pt x 421.575pt>
-File: ./Figures/PCM_4_Error.jpg Graphic file (type jpg)
-<use ./Figures/PCM_4_Error.jpg>
-Package pdftex.def Info: ./Figures/PCM_4_Error.jpg  used on input line 83.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
-<./Figures/PCM_16.jpg, id=3, 562.1pt x 421.575pt>
-File: ./Figures/PCM_16.jpg Graphic file (type jpg)
-<use ./Figures/PCM_16.jpg>
-Package pdftex.def Info: ./Figures/PCM_16.jpg  used on input line 94.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
-<./Figures/PCM_16_Error.jpg, id=4, 562.1pt x 421.575pt>
-File: ./Figures/PCM_16_Error.jpg Graphic file (type jpg)
-<use ./Figures/PCM_16_Error.jpg>
-Package pdftex.def Info: ./Figures/PCM_16_Error.jpg  used on input line 98.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
-[1
-
-{C:/Users/kmark/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 113--118
-
- []
-
-<./Figures/Del_0_5.jpg, id=19, 562.1pt x 421.575pt>
-File: ./Figures/Del_0_5.jpg Graphic file (type jpg)
-<use ./Figures/Del_0_5.jpg>
-Package pdftex.def Info: ./Figures/Del_0_5.jpg  used on input line 123.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
-<./Figures/Del_Error_0_5.jpg, id=20, 562.1pt x 421.575pt>
-File: ./Figures/Del_Error_0_5.jpg Graphic file (type jpg)
-<use ./Figures/Del_Error_0_5.jpg>
-Package pdftex.def Info: ./Figures/Del_Error_0_5.jpg  used on input line 127.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
-<./Figures/Del_1.jpg, id=21, 562.1pt x 421.575pt>
-File: ./Figures/Del_1.jpg Graphic file (type jpg)
-<use ./Figures/Del_1.jpg>
-Package pdftex.def Info: ./Figures/Del_1.jpg  used on input line 137.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
-<./Figures/Del_Error_1.jpg, id=22, 562.1pt x 421.575pt>
-File: ./Figures/Del_Error_1.jpg Graphic file (type jpg)
-<use ./Figures/Del_Error_1.jpg>
-Package pdftex.def Info: ./Figures/Del_Error_1.jpg  used on input line 141.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
-[2 <./Figures/PCM_4.jpg> <./Figures/PCM_4_Error.jpg> <./Figures/PCM_16.jpg> <./
-Figures/PCM_16_Error.jpg>]
-<./Figures/Del_2.jpg, id=28, 562.1pt x 421.575pt>
-File: ./Figures/Del_2.jpg Graphic file (type jpg)
-<use ./Figures/Del_2.jpg>
-Package pdftex.def Info: ./Figures/Del_2.jpg  used on input line 151.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
-<./Figures/Del_Error_2.jpg, id=29, 562.1pt x 421.575pt>
-File: ./Figures/Del_Error_2.jpg Graphic file (type jpg)
-<use ./Figures/Del_Error_2.jpg>
-Package pdftex.def Info: ./Figures/Del_Error_2.jpg  used on input line 155.
-(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
-
-("C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
-sty"
-File: lstlang1.sty 2019/02/27 1.8b listings language file
-) [3 <./Figures/Del_0_5.jpg> <./Figures/Del_Error_0_5.jpg> <./Figures/Del_1.jpg
-> <./Figures/Del_Error_1.jpg> <./Figures/Del_2.jpg> <./Figures/Del_Error_2.jpg>
-]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 168.
-
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
 
 ("C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 168.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
+<./Figures/Raised_Cosine_Pulse.jpg, id=1, 562.1pt x 421.575pt>
+File: ./Figures/Raised_Cosine_Pulse.jpg Graphic file (type jpg)
+<use ./Figures/Raised_Cosine_Pulse.jpg>
+Package pdftex.def Info: ./Figures/Raised_Cosine_Pulse.jpg  used on input line 
+35.
+(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
+<./Figures/Tri_Half.jpg, id=2, 562.1pt x 421.575pt>
+File: ./Figures/Tri_Half.jpg Graphic file (type jpg)
+<use ./Figures/Tri_Half.jpg>
+Package pdftex.def Info: ./Figures/Tri_Half.jpg  used on input line 44.
+(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
+<./Figures/Tri_Full.jpg, id=3, 562.1pt x 421.575pt>
+File: ./Figures/Tri_Full.jpg Graphic file (type jpg)
+<use ./Figures/Tri_Full.jpg>
+Package pdftex.def Info: ./Figures/Tri_Full.jpg  used on input line 48.
+(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
 
-[4]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 249.
+[1
 
- ("C:\Users\kmark\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omlcmr.fd"
-File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 249.
- [5] [6] (WorkingPdf.aux) ) 
+{C:/Users/kmark/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Figures/R
+aised_Cosine_Pulse.jpg>]
+<./Figures/Rect_Half.jpg, id=12, 562.1pt x 421.575pt>
+File: ./Figures/Rect_Half.jpg Graphic file (type jpg)
+<use ./Figures/Rect_Half.jpg>
+Package pdftex.def Info: ./Figures/Rect_Half.jpg  used on input line 59.
+(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
+<./Figures/Rect_Full.jpg, id=13, 562.1pt x 421.575pt>
+File: ./Figures/Rect_Full.jpg Graphic file (type jpg)
+<use ./Figures/Rect_Full.jpg>
+Package pdftex.def Info: ./Figures/Rect_Full.jpg  used on input line 63.
+(pdftex.def)             Requested size: 173.44534pt x 130.08221pt.
+File: ./Figures/Raised_Cosine_Pulse.jpg Graphic file (type jpg)
+<use ./Figures/Raised_Cosine_Pulse.jpg>
+Package pdftex.def Info: ./Figures/Raised_Cosine_Pulse.jpg  used on input line 
+73.
+(pdftex.def)             Requested size: 433.62001pt x 325.21199pt.
+ [2 <./Figures/Tri_Half.jpg> <./Figures/Tri_Full.jpg> <./Figures/Rect_Half.jpg>
+ <./Figures/Rect_Full.jpg>]
+File: ./Figures/Raised_Cosine_Pulse.jpg Graphic file (type jpg)
+<use ./Figures/Raised_Cosine_Pulse.jpg>
+Package pdftex.def Info: ./Figures/Raised_Cosine_Pulse.jpg  used on input line 
+81.
+(pdftex.def)             Requested size: 433.62001pt x 325.21199pt.
+ [3] [4]
+(Lab_8_Submission.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5585 strings out of 492946
- 83061 string characters out of 3126266
- 354899 words of memory out of 3000000
- 9429 multiletter control sequences out of 15000+200000
- 8856 words of font info for 31 fonts, out of 3000000 for 9000
+ 4616 strings out of 492946
+ 72502 string characters out of 3126266
+ 146670 words of memory out of 3000000
+ 8480 multiletter control sequences out of 15000+200000
+ 5457 words of font info for 20 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,8n,42p,319b,1823s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/kmark/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/kmark/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/kma
-rk/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-<C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmmi7.pfb><C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmmi8.pfb><C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/kmark/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/kmark/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/kmark/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users
-/kmark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pf
-b><C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmr9.pfb><C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb><C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/kmark/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on WorkingPdf.pdf (6 pages, 397470 bytes).
+ 42i,7n,40p,324b,495s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Users/kmark/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/kmark/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/kmark/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Lab_8_Submission.pdf (4 pages, 140859 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
+ 40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

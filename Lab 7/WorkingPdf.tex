@@ -2,6 +2,12 @@
 \usepackage{multicol}
 \usepackage{listings}
 \usepackage[margin=1.25in]{geometry}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{subcaption}
+\newcommand*{\Scale}[2][4]{\scalebox{#1}{$#2$}}%
+\newcommand*{\Resize}[2]{\resizebox{#1}{!}{$#2$}}%
+\graphicspath{ {./Figures/} }
 
 \title{Lab report}
 \date{2019-03-13}
@@ -19,11 +25,11 @@ modulated signal.
 
 
 \section{Procedure}
+The MATLAB code that was used in the lab is found in Appendix A. Supplemntary function are found in Appendix B
+\subsection{PCM}
 
-The MATLAB code that was used in the lab is found in Appendix A.
-
-We began defining a signal that will be Pulse Code Modulated and Delta Modulated.
-The signal that was used in the lab was defined as:
+We began defining a signal that will be Pulse Code Modulated.
+The signal that was used was defined as:
 
 \begin{center}
 $
@@ -32,26 +38,129 @@ $
 \end{center}
 
 \noindent
-The time interval was from 0 to 1 with a time step of 0.001\\
+The time interval was from 0 to 1 with a time step of 0.001.\\ \\
 \noindent
-
-The signal was quantized using the custom function quantizedSample.
-The variable quantizedData holds integer values that represent the level of the signal.
+The signal was quantized using the custom function quantized sample.
+The variable quantized data holds integer values that represent the level of the signal.
 These values would normally be encoded into a binary stream and then transmitted but
 for the purpose of this lab that wouldn't be necessary.
 \noindent
-The resulting data was reconstructed using the custom function reconstructedData.
+The resulting data was reconstructed using the custom function reconstructed data.
 
+\subsection{Delta Modulation}
 
+The signal that was used for this portion of the lab was defined as:\\
+\begin{center}
+\large
+$
+e^{-2 t^2}cos(\pi t)
+$
+\normalsize
+\end{center}
+\noindent
+with a time interval from -3 to 3 with a time step of 0.01.\\ \\
+\noindent
+The optimal step size was calculated using:
 
-
-
+\begin{center}
+\Large
+$
+E = \frac{\dot{m}(t)\omega}{f_s}
+$
+\normalsize
+\end{center}
 \section{Results}
-
-
+\subsection{PCM}
+The following figures are the results of the MATLAB code.
+% Figures for 4 Levels
+\begin{figure}[H]
+  \begin{center}
+    \begin{subfigure}[b]{0.4\linewidth}
+      \includegraphics[width = \linewidth]{PCM_4.jpg}
+      \caption{Reconstructed signal}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.4\linewidth}
+      \includegraphics[width = \linewidth]{PCM_4_Error.jpg}
+      \caption{Quantization Error}
+    \end{subfigure}
+    \caption{Signal Quantized with 4 Levels}
+    \label{fig:figure1}
+  \end{center}
+\end{figure}
+% Figures for 16 levels
+\begin{figure}[H]
+  \begin{center}
+    \begin{subfigure}[b]{0.4\linewidth}
+      \includegraphics[width = \linewidth]{PCM_16.jpg}
+      \caption{Reconstructed signal}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.4\linewidth}
+      \includegraphics[width = \linewidth]{PCM_16_Error.jpg}
+      \caption{Quantization Error}
+    \end{subfigure}
+    \caption{Signal Quantized with 16 Levels}
+    \label{fig:figure2}
+  \end{center}
+\end{figure}
+\noindent
+The equation used to calculate the theoretical error is:
+\Large
+% Theoretical Error Equation
+\begin{center}
+$ \epsilon = \frac{\hat{m}(t)^2}{3L}$
+\end{center}
+\normalsize
+\noindent
+The theoretical error that was calcualted for a normalized, quantized signal with 4 levels was 0.0208.\\
+The measured error was found to be 0.0205\\
+The theoretical error that was calculated for a normalized, quantized signal with 16 levels was 0.0013\\
+The measured error was found to be 0.0013\\
+\subsection{Delta Modulation}
+The following figures are the results from the Delta Modulation portion of the label
+\begin{figure}[H]
+  \begin{center}
+    \begin{subfigure}[b]{0.4\linewidth}
+      \includegraphics[width = \linewidth]{Del_0_5.jpg}
+      \caption{Reconstructed signal}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.4\linewidth}
+      \includegraphics[width = \linewidth]{Del_Error_0_5.jpg}
+      \caption{Granulation Error}
+    \end{subfigure}
+    \caption{Signal Sampled with $E = 0.5 E_0$ Levels}
+    \label{fig:figure3}
+  \end{center}
+\end{figure}
+\begin{figure}[H]
+  \begin{center}
+    \begin{subfigure}[b]{0.4\linewidth}
+      \includegraphics[width = \linewidth]{Del_1.jpg}
+      \caption{Reconstructed signal}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.4\linewidth}
+      \includegraphics[width = \linewidth]{Del_Error_1.jpg}
+      \caption{Granulation Error}
+    \end{subfigure}
+    \caption{Signal Sampled with $E = E_0$ Levels}
+    \label{fig:figure4}
+  \end{center}
+\end{figure}
+\begin{figure}[H]
+  \begin{center}
+    \begin{subfigure}[b]{0.4\linewidth}
+      \includegraphics[width = \linewidth]{Del_2.jpg}
+      \caption{Reconstructed signal}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.4\linewidth}
+      \includegraphics[width = \linewidth]{Del_Error_2.jpg}
+      \caption{Granulation Error}
+    \end{subfigure}
+    \caption{Signal Sampled with $E = 2 E_0$ Levels}
+    \label{fig:figure5}
+  \end{center}
+\end{figure}
 \appendix
 \section{MATLAB Code}
-
 \begin{lstlisting}[language = MATLAB]
 t = 0:0.001:1;
 fs = 1000;
@@ -93,16 +202,14 @@ resampled = resampled(1:length(t));
 plot(t, signal,'b.', t - 5/fs, resampled,'g');
 
 filtered = filter(DelFilter(fs),[1],resampled);
-plot(t, signal,'b.',t, filtered,'g');
+offset = 44;
+plot(t, signal,'b.',t(1:end-offset), filtered(1+offset:end),'g');
 
-shift1 = 5;
-shift2 = 0;
-amp = 1%/0.14;
-granError1 = signal(1+shift1:end) - resampled(1:end-shift1);
-granError2 = signal(1+shift2:end) - amp*filtered(1:end-shift2);
-plot(t(1+shift1:end),granError1,t(1+shift2:end),granError2);
+shift = 44;
+granError = signal(1:end-shift) - filtered(1 + shift:end);
+plot(t(1:end - shift),granError);
+
 \end{lstlisting}
-
 \section{Suplementary Code}
 \subsection{quantizedSample}
 \begin{lstlisting}[language = MATLAB]
